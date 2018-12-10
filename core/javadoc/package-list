@@ -1,5 +1,6 @@
 ch.unibas.bsc.detapp
 ch.unibas.bsc.detapp.actor
+ch.unibas.bsc.detapp.actor.items
 ch.unibas.bsc.detapp.controller
 ch.unibas.bsc.detapp.database
 ch.unibas.bsc.detapp.screen
