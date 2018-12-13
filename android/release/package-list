@@ -1,9 +1,10 @@
 ch.unibas.bsc.detapp
+ch.unibas.bsc.detapp.analysis
 ch.unibas.bsc.detapp.connection
 ch.unibas.bsc.detapp.database
 ch.unibas.bsc.detapp.database.converters
 ch.unibas.bsc.detapp.database.daos
 ch.unibas.bsc.detapp.database.entities
 ch.unibas.bsc.detapp.utilities
-ch.unibas.bsc.detapp.utilities.ui
+ch.unibas.bsc.detapp.utilities.listadapters
 ch.unibas.bsc.detapp.viewmodels
