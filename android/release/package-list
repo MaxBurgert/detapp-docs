@@ -1,5 +1,6 @@
 ch.unibas.bsc.detapp
 ch.unibas.bsc.detapp.analysis
+ch.unibas.bsc.detapp.analysis.utils
 ch.unibas.bsc.detapp.connection
 ch.unibas.bsc.detapp.database
 ch.unibas.bsc.detapp.database.converters
