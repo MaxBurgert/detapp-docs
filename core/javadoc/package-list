@@ -3,8 +3,8 @@ ch.unibas.bsc.detapp.actor
 ch.unibas.bsc.detapp.actor.items
 ch.unibas.bsc.detapp.controller
 ch.unibas.bsc.detapp.database
+ch.unibas.bsc.detapp.level
 ch.unibas.bsc.detapp.map
 ch.unibas.bsc.detapp.screen
 ch.unibas.bsc.detapp.stages
 ch.unibas.bsc.detapp.util
-test.java.ch.unibas.bsc.detapp
